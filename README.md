@@ -1,4 +1,4 @@
-# Programacion Orientada A Objetos ConGatitos
+# Programacion Orientada A Objetos gatunos
 
 ![Pink Floral Notebook Book Cover](https://user-images.githubusercontent.com/45703686/229179154-3b5126c8-a392-4faa-822a-e20ed572a72d.jpg)
 
